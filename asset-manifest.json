@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/reac-router-20200206/static/css/main.43c50011.chunk.css",
-    "main.js": "/reac-router-20200206/static/js/main.751de683.chunk.js",
-    "main.js.map": "/reac-router-20200206/static/js/main.751de683.chunk.js.map",
-    "runtime-main.js": "/reac-router-20200206/static/js/runtime-main.bde7581a.js",
-    "runtime-main.js.map": "/reac-router-20200206/static/js/runtime-main.bde7581a.js.map",
-    "static/css/2.89d0bb34.chunk.css": "/reac-router-20200206/static/css/2.89d0bb34.chunk.css",
-    "static/js/2.908f5c33.chunk.js": "/reac-router-20200206/static/js/2.908f5c33.chunk.js",
-    "static/js/2.908f5c33.chunk.js.map": "/reac-router-20200206/static/js/2.908f5c33.chunk.js.map",
-    "index.html": "/reac-router-20200206/index.html",
-    "precache-manifest.b0e73a27e37468d78e7cabbe1e9e4527.js": "/reac-router-20200206/precache-manifest.b0e73a27e37468d78e7cabbe1e9e4527.js",
-    "service-worker.js": "/reac-router-20200206/service-worker.js",
-    "static/css/2.89d0bb34.chunk.css.map": "/reac-router-20200206/static/css/2.89d0bb34.chunk.css.map",
-    "static/css/main.43c50011.chunk.css.map": "/reac-router-20200206/static/css/main.43c50011.chunk.css.map",
-    "static/js/2.908f5c33.chunk.js.LICENSE.txt": "/reac-router-20200206/static/js/2.908f5c33.chunk.js.LICENSE.txt",
-    "static/media/background.png": "/reac-router-20200206/static/media/background.5134b9d4.png",
-    "static/media/nature.jpg": "/reac-router-20200206/static/media/nature.0c9dea40.jpg"
+    "main.css": "/react-router-20200206/static/css/main.de004349.chunk.css",
+    "main.js": "/react-router-20200206/static/js/main.751de683.chunk.js",
+    "main.js.map": "/react-router-20200206/static/js/main.751de683.chunk.js.map",
+    "runtime-main.js": "/react-router-20200206/static/js/runtime-main.35ab2d7f.js",
+    "runtime-main.js.map": "/react-router-20200206/static/js/runtime-main.35ab2d7f.js.map",
+    "static/css/2.89d0bb34.chunk.css": "/react-router-20200206/static/css/2.89d0bb34.chunk.css",
+    "static/js/2.908f5c33.chunk.js": "/react-router-20200206/static/js/2.908f5c33.chunk.js",
+    "static/js/2.908f5c33.chunk.js.map": "/react-router-20200206/static/js/2.908f5c33.chunk.js.map",
+    "index.html": "/react-router-20200206/index.html",
+    "precache-manifest.c5d70a12c6a3ea85dd26ca848da28945.js": "/react-router-20200206/precache-manifest.c5d70a12c6a3ea85dd26ca848da28945.js",
+    "service-worker.js": "/react-router-20200206/service-worker.js",
+    "static/css/2.89d0bb34.chunk.css.map": "/react-router-20200206/static/css/2.89d0bb34.chunk.css.map",
+    "static/css/main.de004349.chunk.css.map": "/react-router-20200206/static/css/main.de004349.chunk.css.map",
+    "static/js/2.908f5c33.chunk.js.LICENSE.txt": "/react-router-20200206/static/js/2.908f5c33.chunk.js.LICENSE.txt",
+    "static/media/background.png": "/react-router-20200206/static/media/background.5134b9d4.png",
+    "static/media/nature.jpg": "/react-router-20200206/static/media/nature.0c9dea40.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bde7581a.js",
+    "static/js/runtime-main.35ab2d7f.js",
     "static/css/2.89d0bb34.chunk.css",
     "static/js/2.908f5c33.chunk.js",
-    "static/css/main.43c50011.chunk.css",
+    "static/css/main.de004349.chunk.css",
     "static/js/main.751de683.chunk.js"
   ]
 }
